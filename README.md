@@ -948,24 +948,6 @@ GLTFs into JSX: [https://github.com/pmndrs/gltfjsx](https://github.com/pmndrs/gl
 
 That's it! Your app is now successfully deployed on Vercel and accessible to users. Make sure to keep an eye on your deployments and update your app as needed.
 
-
-
-
-## <a name="give-a-star">⭐ Give a Star</a>
-You can also give this repository a star to show more people and they can use this repository.
-
-## <a name="follow me">🚀Follow Me On</a>
-[This Repository is developed and maintained by Baibhav Sagar](https://github.com/baibhavsagar)
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/baibhavsagar "Instagram")
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baibhavsagar "Instagram")
-
-[![Follow Me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhavsagar "Linked In")
-
-
-
 ## <a name="learn-more">📚 Learn More</a>
 
 
